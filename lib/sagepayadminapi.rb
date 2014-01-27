@@ -1,5 +1,3 @@
-require 'xml-simple'
-
 class SagePayAdminAPI
   
   VERSION = '0.0.2'
